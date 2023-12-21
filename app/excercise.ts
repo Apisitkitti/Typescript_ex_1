@@ -1,4 +1,3 @@
-function cal (a: number, b: number): number {
-  return a + b
+export function greet (name: string[]): string {
+  return `Hello, ${name[0]}.`
 }
-console.log(cal(1, 2))

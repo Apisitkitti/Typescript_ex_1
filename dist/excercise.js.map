@@ -1,1 +1,1 @@
-{"version":3,"file":"excercise.js","sourceRoot":"","sources":["../app/excercise.ts"],"names":[],"mappings":"AAAA,SAAS,GAAG,CAAE,CAAS,EAAE,CAAS;IAChC,OAAO,CAAC,GAAG,CAAC,CAAA;AACd,CAAC;AACD,OAAO,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAA"}
+{"version":3,"file":"excercise.js","sourceRoot":"","sources":["../app/excercise.ts"],"names":[],"mappings":";;;AAAA,SAAgB,KAAK,CAAE,IAAc;IACnC,OAAO,iBAAU,IAAI,CAAC,CAAC,CAAC,MAAG,CAAA;AAC7B,CAAC;AAFD,sBAEC"}
